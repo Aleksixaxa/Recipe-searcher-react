@@ -1,0 +1,50 @@
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+
+}
+.heading {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 4em;
+}
+li {
+  list-style: none;
+}
+
+.search-form {
+  background-color: rgb(199, 247, 253);
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 10px 10px 2px black;
+  display: flex;
+  align-items: center;
+}
+.search-bar {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 10px;
+  padding: .2em 2em;
+  font-size: 1.5em;
+}
+
+.search-button {
+  background-color: rgb(255, 255, 255);
+  padding: .5em 2em;
+  margin-left: 20px;
+  font-size: 1em;
+  border: none;
+  border-radius: 10px;
+}
+p {
+  font-size: 1.6em;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
