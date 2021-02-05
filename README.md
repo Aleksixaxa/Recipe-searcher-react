@@ -1,5 +1,5 @@
 # Recipe-searcher-react
-Search recipes from an api
+Search recipes from an api made using React
 
 
 
